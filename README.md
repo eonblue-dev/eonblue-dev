@@ -1,16 +1,71 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**eonblue-dev/eonblue-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Pedro Luis Rodríguez Flores
 
-Here are some ideas to get you started:
+### Data Scientist · Machine Learning · Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+</p>
+
+</div>
+
+---
+
+### About
+
+Junior **Data Scientist** focused on **Machine Learning, Data Analytics and Python**.
+
+Interested in turning data into useful insights, predictive models and data-driven solutions.
+
+📍 Spain
+
+---
+
+### Stack
+
+**Data Science**
+
+`Python` · `Pandas` · `NumPy` · `SciPy`
+
+**Machine Learning**
+
+`Scikit-learn` · `Regression` · `Classification` · `Clustering` · `PCA`
+
+**Data & BI**
+
+`SQL` · `PostgreSQL` · `Databricks` · `KNIME` · `Power BI`
+
+**Visualization**
+
+`Matplotlib` · `Seaborn` · `Plotly`
+
+**Tools**
+
+`Git` · `Jupyter` · `VS Code` · `Neovim` · `Postman`
+
+---
+
+### Currently Learning
+
+`Statistics` · `Machine Learning` · `Advanced SQL` · `Big Data` · `Cloud` · `MLOps`
+
+---
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pedroluisrf/">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="mailto:eonblue.dev@gmail.com">Email</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/eonblue-dev">GitHub</a>
+
+<br><br>
+
+<sub>Data · Models · Insights</sub>
+
+</div>
