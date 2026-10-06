@@ -58,6 +58,25 @@ Interested in turning data into useful insights, predictive models and data-driv
 
 <div align="center">
 
+## GitHub Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/eonblue-dev/eonblue-dev/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/eonblue-dev/eonblue-dev/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/eonblue-dev/eonblue-dev/output/github-snake.svg"
+      alt="GitHub contribution snake"
+    />
+  </picture>
+</p>
+
 <a href="https://www.linkedin.com/in/pedroluisrf/">LinkedIn</a>
 &nbsp;·&nbsp;
 <a href="mailto:eonblue.dev@gmail.com">Email</a>
